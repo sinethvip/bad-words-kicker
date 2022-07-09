@@ -12,7 +12,7 @@ line= LINE(LINE_EMAIL, LINE_PASS)
 
 oepoll = OEPoll(line)
 
-prohibitedWords = ['බූරුවා', 'හරකා', 'පරයා']
+prohibitedWords = []
 userTemp = {}
 userKicked = []
 
